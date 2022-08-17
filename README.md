@@ -1,3 +1,2 @@
 # bolodechocolate
-hello bolo
 
